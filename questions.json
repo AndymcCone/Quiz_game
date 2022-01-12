@@ -1,0 +1,42 @@
+[
+	{
+		"question": "Inside which HTML element do we put the JavaScript??",
+		"choice1": "<script>",
+		"choice2": "<javascript>",
+		"choice3": "<js>",
+		"choice4": "<scripting>",
+		"answer": 1
+	},
+	{
+		"question": "What is the correct syntax for referring to an external script called 'xxx.js'?",
+		"choice1": "<script href='xxx.js'>",
+		"choice2": "<script name='xxx.js'>",
+		"choice3": "<script src='xxx.js'>",
+		"choice4": "<script file='xxx.js'>",
+		"answer": 3
+	},
+	{
+		"question": "How do you write 'Hello World' in an alert box?",
+		"choice1": "msgBox('Hello World');",
+		"choice2": "alertBox('Hello World');",
+		"choice3": "msg('Hello World');",
+		"choice4": "alert('Hello World');",
+		"answer": 4
+	},
+	{
+		"question": "Which of the following is NOT true?",
+		"choice1": "let definitions cannot be redeclared",
+		"choice2": "var definitions inside a function create a local variable",
+		"choice3": "const can be used to define constant arrays, which will not change their content after creation",
+		"choice4": "const definitions cannot be redeclared",
+		"answer": 3
+	},
+	{
+		"question": "Which of the following is true?",
+		"choice1": "const MENU = Symbol('menu'); creates a global Symbol",
+		"choice2": "const OPTIONS = Symbol.for('options'); creates a global Symbol",
+		"choice3": "class Mammal inherits Animal {} will make Mammal class inherit class Animal",
+		"choice4": "const CREDITS = Symbol.for('credits'); creates a local Symbol",
+		"answer": 2
+	}
+]
